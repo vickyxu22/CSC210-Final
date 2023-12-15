@@ -1,0 +1,36 @@
+## Deliverable Goals (14 pts)
+
+YES 2 pts: Dataset is selected and fully described in `data_description.txt`
+
+YES 2 pts: Journal includes at least one entry per phase and describes the design decisions made and reasons for making them
+
+YES 2 pts: The program reads the data in and stores them in the form of a graph
+
+YES 2 pts: Graph is used to compute new information, including something significant about node connectivity.
+
+YES 2 pts: The program's output communicates the results in a clear and unambiguous manner
+
+YES 2 pts: The program is designed in a general way so that it would work for any dataset that follows the same format and could solve any problem of the category that your program is solving (e.g., nodes are not hardcoded) 
+
+YES 2 pts: The usage of the program is clearly demonstrated in the `demo.txt` file (plus the `screenshot.png` file if applicable)
+
+## General Items (10 pts):
+YES 4 pts: Program compiles without errors or warnings.
+
+YES 2 pts: Executes fully & consistently without crashing (exception/freeze).
+
+YES 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      YES Classes & class members all have Javadoc header comments.
+
+      YES Clear and consistent indentation of bracketed sections.
+
+      YES Adheres to Java conventions on naming & capitalization.
+
+      YES Methods & variables all have clear and accurate names.
+
+      YES Methods avoid confusing side effects.
+
+YES 1 pt: All required files included with submission (including completed checklist file).
+
+YES 1 pt: `readme.md` contains your reflection on the project and responses to all prompts.

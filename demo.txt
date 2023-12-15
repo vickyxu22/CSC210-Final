@@ -1,0 +1,8 @@
+Begin Node and End Node serial number both ∈ [0, 200]:
+
+Number of Nodes: 201
+Number of Edges: 608
+Maximum Node Degree: 58
+Node(s) with Maximum Degree: [10]
+Average Node Degree: 6.0497512437810945
+Path from 137 to 85: [137, 134, 175, 35, 120, 85]

@@ -1,0 +1,13 @@
+EU email communication network
+
+The network was generated using email data from a large European research institution. 
+Anonymized information about all incoming and outgoing email of the EU research institution from October 2003 to May 2005 (18 months).
+
+
+* source url: https://snap.stanford.edu/data/email-EuAll.html
+* authors/owners: J. Leskovec, J. Kleinberg and C. Faloutsos. 
+
+* number of nodes: 265214
+* number of edges: 420045
+
+* Qualities of the graph:  directed; skip self-edges; no duplicate edges. 
